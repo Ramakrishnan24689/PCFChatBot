@@ -30,7 +30,7 @@ Build using this example : https://developer.microsoft.com/en-us/fluentui#/contr
  
  Add the source url of Chatbot to PCF property.
 
-![](https://github.com/Ramakrishnan24689/PCFChatBot/blob/main/Chatbot/assets/properties.png)
+![](https://github.com/Ramakrishnan24689/PCFChatBot/blob/main/Chatbot/assets/Properties.png)
 
 ## Glimpse of the component 
 
