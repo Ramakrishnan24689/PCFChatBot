@@ -30,11 +30,11 @@ Build using this example : https://developer.microsoft.com/en-us/fluentui#/contr
 
 ### In Model driven app
 
-![](chatbot/assets/modedrivenapps.gif)
+![](https://github.com/Ramakrishnan24689/PCFChatBot/blob/main/Chatbot/assets/modedrivenapps.gif)
 
 ### In canvas app
 
-![](chatbot/assets/canvasapp.gif)
+![](https://github.com/Ramakrishnan24689/PCFChatBot/blob/main/Chatbot/assets/canvasapp.gif)
 
 
 ## For packaging & deploying the solution, refer the below link
