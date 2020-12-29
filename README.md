@@ -25,6 +25,12 @@ Build using this example : https://developer.microsoft.com/en-us/fluentui#/contr
   
  ### Step 2 - Add the component
  Create a single line text field and add the component.
+ 
+ ### Step 3 - Add property value
+ 
+ Add the source url of Chatbot to PCF property.
+
+![](https://github.com/Ramakrishnan24689/PCFChatBot/blob/main/Chatbot/assets/properties.png)
 
 ## Glimpse of the component 
 
@@ -40,6 +46,8 @@ Build using this example : https://developer.microsoft.com/en-us/fluentui#/contr
 ## Refer below link for packaging & deploying the solution
 
  https://docs.microsoft.com/en-us/powerapps/developer/component-framework/import-custom-controls 
+ 
+## Refer this article for more infor
 
 ## Solution
 
