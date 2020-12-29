@@ -37,7 +37,7 @@ Build using this example : https://developer.microsoft.com/en-us/fluentui#/contr
 ![](https://github.com/Ramakrishnan24689/PCFChatBot/blob/main/Chatbot/assets/canvasapp.gif)
 
 
-## For packaging & deploying the solution, refer the below link
+## Refer below link for packaging & deploying the solution
 
  https://docs.microsoft.com/en-us/powerapps/developer/component-framework/import-custom-controls 
 
