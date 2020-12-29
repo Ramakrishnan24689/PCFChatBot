@@ -28,7 +28,7 @@ Build using this example : https://developer.microsoft.com/en-us/fluentui#/contr
  
  ### Step 3 - Add property value
  
- Add the source url of Chatbot to PCF property.
+ Add the source url of Chatbot to PCF property - chatbotURL.
 
 ![](https://github.com/Ramakrishnan24689/PCFChatBot/blob/main/Chatbot/assets/Properties.png)
 
