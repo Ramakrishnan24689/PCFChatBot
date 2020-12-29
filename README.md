@@ -1,6 +1,6 @@
 # PCFChatBot
 
-A PCF component for intgreating Power virtual agent with Powerapps. 
+A PCF component for integrating Power virtual agent with Powerapps. 
 
 This solution gives the ability to utilize chatbot along with Canvas or Model Driven apps.
 
