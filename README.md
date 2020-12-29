@@ -47,7 +47,9 @@ Build using this example : https://developer.microsoft.com/en-us/fluentui#/contr
 
  https://docs.microsoft.com/en-us/powerapps/developer/component-framework/import-custom-controls 
  
-## Refer this article for more infor
+## Refer this article for more information refer this article
+
+ https://www.linkedin.com/pulse/use-power-virtual-agents-powerapps-via-pcf-ramakrishnan-raman
 
 ## Solution
 
