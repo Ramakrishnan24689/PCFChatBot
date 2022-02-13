@@ -26,26 +26,26 @@ Build using this example : https://developer.microsoft.com/en-us/fluentui#/contr
 ### Step 2 - Add the component
  Create a single line text field and add the component.
  
- ### Step 3 - Add property value
- 
- Add the source url of Chatbot to PCF property - chatbotURL.
-
-![](https://github.com/Ramakrishnan24689/PCFChatBot/blob/main/Chatbot/assets/Properties.png)
-
 ### Step 3 - Add Property Value
 
 Add properties
+
+![](https://github.com/Ramakrishnan24689/PCFChatBot/blob/main/Chatbot/assets/Custom-Properties.png)
 
 Property Name|Value
 --------|---------
 chatbotURL |URL of PVA (e.g. https://powerva.microsoft.com/webchat/bots/935debfc-9961-4c0e-bafb-d633f852ec42)
 To sele|Environment URL(used in step 1)
 Select Width| e.g. Medium
-width in px| e.g. 888
+width in px| e.g. 888 
+
+Important : 'Width in px' is opitional and it is only work when "Custom" is selected as Width property.
+
+![](https://github.com/Ramakrishnan24689/PCFChatBot/blob/main/Chatbot/assets/Properties.png)
 
 For more information on Width, see documentation https://developer.microsoft.com/en-us/fluentui#/controls/web/panel#PanelType
 
-![](https://github.com/Ramakrishnan24689/PCFChatBot/blob/main/Chatbot/assets/Custom-Properties.png)
+
 
 ## Glimpse of the component 
 
