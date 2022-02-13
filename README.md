@@ -25,6 +25,12 @@ Build using this example : https://developer.microsoft.com/en-us/fluentui#/contr
   
 ### Step 2 - Add the component
  Create a single line text field and add the component.
+ 
+ ### Step 3 - Add property value
+ 
+ Add the source url of Chatbot to PCF property - chatbotURL.
+
+![](https://github.com/Ramakrishnan24689/PCFChatBot/blob/main/Chatbot/assets/Properties.png)
 
 ### Step 3 - Add Property Value
 
@@ -55,6 +61,10 @@ For more information on Width, see documentation https://developer.microsoft.com
 ## Refer below link for packaging & deploying the solution
 
  https://docs.microsoft.com/en-us/powerapps/developer/component-framework/import-custom-controls 
+ 
+## Refer this article for more information in this regard
+
+ https://www.linkedin.com/pulse/use-power-virtual-agents-powerapps-via-pcf-ramakrishnan-raman
 
 ## Solution
 
