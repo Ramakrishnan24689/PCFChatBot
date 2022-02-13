@@ -20,7 +20,7 @@
     <!-- property node identifies a specific, configurable piece of data that the control expects from CDS-->
     <property name="Chatbot" display-name-key="Chatbot" description-key="embed" of-type="SingleLine.Text" usage="bound" required="true"/>
     <property name="chatbotURL" display-name-key="chatbotURL" default-value="https://powerva.microsoft.com/webchat/bots/935debfc-9961-4c0e-bafb-d633f852ec42"  description-key="embed" of-type="SingleLine.Text" usage="input" required="true"/>
-    <property name="typeofSelection" display-name-key="Select Width" description-key="Select Person or Group" usage="input" of-type="Enum" required="true">
+    <property name="panelwidthtype" display-name-key="Panel Width Type" description-key="Select Panel Width Type" usage="input" of-type="Enum" required="true">
       <!--<value name="small" display-name-key="small" description-key="Type of selection - Small" default="true">Small</value>
       <value name="medium" display-name-key="medium" description-key="Type of selection - Medium">Medium</value>
       <value name="large" display-name-key="large" description-key="Type of selection - Large">Large</value>
@@ -28,15 +28,15 @@
       <value name="fullwidth" display-name-key="fullwidth" description-key="Type of selection - Full Width">Full Width</value>
       <value name="custom" display-name-key="custom" description-key="Type of selection -Custom">Custom</value>
       <value name="customnearside" display-name-key="customnearside" description-key="Type of selection -Custom Near Side">Custom, Near Side</value>-->
-      <value name="Small" display-name-key="Small" description-key="Type of selection - Small">0</value>
-      <value name="Small Fixed Far" display-name-key="Small Fixed Far" description-key="Type of selection - smallFixedFar">1</value>
-      <value name="Small Fixed Near" display-name-key="Small Fixed Near" description-key="Type of selection - smallFixedNear">2</value>
-      <value name="Medium" display-name-key="Medium" description-key="Type of selection - medium" default="true">3</value>
-      <value name="Large" display-name-key="Large" description-key="Type of selection - large">4</value>
-      <value name="Large Fixed" display-name-key="Large Fixed" description-key="Type of selection - largeFixed">5</value>
-      <value name="Extra Large" display-name-key="Extra Large" description-key="Type of selection -extraLarge">6</value>
-      <value name="Custom" display-name-key="Custom" description-key="Type of selection -Custom Near Side">7</value>
-      <value name="Custom Near" display-name-key="Custom Near" description-key="Type of selection -Custom Near Side">8</value>
+      <value name="small" display-name-key="Small" description-key="Type of selection - Small">0</value>
+      <value name="smallFixedFar" display-name-key="Small Fixed Far" description-key="Type of selection - smallFixedFar">1</value>
+      <value name="smallFixedNear" display-name-key="Small Fixed Near" description-key="Type of selection - smallFixedNear">2</value>
+      <value name="medium" display-name-key="Medium" description-key="Type of selection - medium" default="true">3</value>
+      <value name="large" display-name-key="Large" description-key="Type of selection - large">4</value>
+      <value name="largeFixed" display-name-key="Large Fixed" description-key="Type of selection - largeFixed">5</value>
+      <value name="extraLarge" display-name-key="Extra Large" description-key="Type of selection -extraLarge">6</value>
+      <value name="custom" display-name-key="Custom" description-key="Type of selection -Custom Near Side">7</value>
+      <value name="customNear" display-name-key="Custom Near" description-key="Type of selection -Custom Near Side">8</value>
     </property>
     <property name="Widthinpx" display-name-key="width in px" description-key="Width in px" of-type="SingleLine.Text" usage="input" default-value="888"/>
     <!-- 

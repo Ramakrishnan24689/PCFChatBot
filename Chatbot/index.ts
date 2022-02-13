@@ -42,7 +42,7 @@ export class PCFChatbot implements ComponentFramework.StandardControl<IInputs, I
 		// Add code to update control view
 		this.props.chatbotURL = context.parameters.chatbotURL.raw!;
 		//
-		this.props.panelType = +context.parameters.typeofSelection.raw!;
+		this.props.panelType = +context.parameters.panelwidthtype.raw!;
 		this.props.width = context.parameters.Widthinpx.raw!;
 		ReactDOM.render(
 			React.createElement(
