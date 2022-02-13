@@ -39,7 +39,7 @@ To sele|Environment URL(used in step 1)
 Select Width| e.g. Medium
 width in px| e.g. 888 
 
-Important : 'Width in px' is opitional and it is only work when "Custom" is selected as Width property.
+Important : 'Width in px' is opitional and it is only work when "Custom" or "Custom Near" is selected as Width property.
 
 ![](https://github.com/Ramakrishnan24689/PCFChatBot/blob/main/Chatbot/assets/Properties.png)
 
